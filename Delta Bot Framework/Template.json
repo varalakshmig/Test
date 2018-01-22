@@ -1,0 +1,10 @@
+﻿[
+	{
+		"title": "Please Provide Your {0}",
+		"type": "GetInput"
+	},
+	{
+		"title": "Please Find Your Baggage Status.\n\n \n\n BagStatus : {0} \n\n CurrentTrackerPhase : {1}",
+		"type": "GetBagStatus"
+	}
+]

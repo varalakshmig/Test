@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Anand\ReUsable Bot\Latest\SampleBotTemplate-20170503T070826Z-001\SampleBotTemplate-30-6-new\SampleBotTemplate\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Anand\ReUsable Bot\Latest\SampleBotTemplate-20170503T070826Z-001\SampleBotTemplate-30-6-new\SampleBotTemplate\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Anand\ReUsable Bot\Latest\SampleBotTemplate-20170503T070826Z-001\SampleBotTemplate-30-6-new\SampleBotTemplate\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

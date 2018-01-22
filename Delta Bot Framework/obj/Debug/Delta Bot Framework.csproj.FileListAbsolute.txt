@@ -1,0 +1,258 @@
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\DocumentDB.Spatial.Sql.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Bot Application1.dll.config
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Bot Application1.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Bot Application1.pdb
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\AdaptiveCards.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Autofac.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Chronic.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Hammock.ClientProfile.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.Client.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.OData.Sql.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Builder.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Connector.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Data.Edm.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Data.OData.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.OData.Core.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.OData.Edm.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Spatial.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Newtonsoft.Json.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Net.Http.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Net.Http.Formatting.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Spatial.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Web.Http.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Web.Http.WebHost.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Web.OData.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\TweetSharp.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Autofac.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Hammock.ClientProfile.pdb
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.Client.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.OData.Sql.pdb
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.OData.Sql.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Builder.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Connector.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Data.Edm.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Data.OData.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.OData.Core.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.OData.Edm.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.Spatial.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\Newtonsoft.Json.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Net.Http.Formatting.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Spatial.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Web.Http.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Web.Http.WebHost.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\System.Web.OData.xml
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\TweetSharp.pdb
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\de\System.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\es\System.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\fr\System.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\it\System.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ja\System.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ko\System.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\ru\System.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\obj\Debug\Delta Bot Framework.csprojResolveAssemblyReference.cache
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\obj\Debug\Delta Bot Framework.csproj.CoreCompileInputs.cache
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\obj\Debug\Bot Application1.dll
+C:\Users\W67286\source\Repos\Delta_Speak\Delta Bot Framework\obj\Debug\Bot Application1.pdb
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\obj\Debug\Delta Bot Framework.csproj.CoreCompileInputs.cache
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\obj\Debug\Bot Application1.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\obj\Debug\Bot Application1.pdb
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\DocumentDB.Spatial.Sql.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Bot Application1.dll.config
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Bot Application1.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Bot Application1.pdb
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\AdaptiveCards.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Autofac.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Chronic.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Hammock.ClientProfile.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.Client.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.OData.Sql.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Builder.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Connector.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Data.Edm.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Data.OData.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.OData.Core.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.OData.Edm.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Rest.ClientRuntime.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Spatial.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Newtonsoft.Json.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Net.Http.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Net.Http.Formatting.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Security.Cryptography.Algorithms.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Security.Cryptography.Encoding.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Security.Cryptography.Primitives.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Spatial.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Web.Http.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Web.Http.WebHost.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Web.OData.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\TweetSharp.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Autofac.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Hammock.ClientProfile.pdb
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.Client.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.OData.Sql.pdb
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Azure.Documents.OData.Sql.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Builder.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Bot.Connector.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Data.Edm.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Data.OData.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.OData.Core.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.OData.Edm.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.Spatial.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\Newtonsoft.Json.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Net.Http.Formatting.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Spatial.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Web.Http.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Web.Http.WebHost.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\System.Web.OData.xml
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\TweetSharp.pdb
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\nl\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.Data.OData.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.Data.OData.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.Data.OData.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.OData.Core.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.OData.Core.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.OData.Core.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.OData.Core.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.OData.Core.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.OData.Core.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.OData.Core.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.OData.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.OData.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.OData.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.OData.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.OData.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.OData.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.OData.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\de\Microsoft.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\es\Microsoft.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\fr\Microsoft.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\it\Microsoft.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ja\Microsoft.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ko\Microsoft.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ru\Microsoft.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hans\Microsoft.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hant\Microsoft.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\de\System.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\es\System.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\fr\System.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\it\System.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ja\System.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ko\System.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\ru\System.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hans\System.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\bin\zh-Hant\System.Spatial.resources.dll
+E:\Delta Speak\Delta_Speak\Delta Bot Framework\obj\Debug\Delta Bot Framework.csprojResolveAssemblyReference.cache
